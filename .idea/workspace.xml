@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6fa2da0-7834-4ba2-844c-2ea7f2362e49" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a6fa2da0-7834-4ba2-844c-2ea7f2362e49" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,12 +127,20 @@
       <option name="project" value="LOCAL" />
       <updated>1707069641198</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="HomeWork02">
+      <created>1707071250362</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707071250362</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tyr" />
     <MESSAGE value="tpf" />
-    <option name="LAST_COMMIT_MESSAGE" value="tpf" />
+    <MESSAGE value="HomeWork02" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork02" />
   </component>
 </project>
