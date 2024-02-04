@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6fa2da0-7834-4ba2-844c-2ea7f2362e49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lessons_03/Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03/Task00.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework_03/Task4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,13 +42,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TypeCasting">
-    <configuration name="CamelCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons_02.CamelCase" />
+  <component name="RunManager" selected="Application.Task4">
+    <configuration name="Homework03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_03.Homework03" />
       <module name="cohort_41_lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons_02.*" />
+          <option name="PATTERN" value="homework_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_02.HomeWork02" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_03.Task2" />
       <module name="cohort_41_lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework_02.*" />
+          <option name="PATTERN" value="homework_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +69,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons_03.MathOperations" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_03.Task3" />
       <module name="cohort_41_lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons_03.*" />
+          <option name="PATTERN" value="homework_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_03.Task4" />
+      <module name="cohort_41_lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,26 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons_03.Variables" />
-      <module name="cohort_41_lessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lessons_03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Homework03" />
         <item itemvalue="Application.TypeCasting" />
-        <item itemvalue="Application.MathOperations" />
-        <item itemvalue="Application.Variables" />
-        <item itemvalue="Application.HomeWork02" />
-        <item itemvalue="Application.CamelCase" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707071969854</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="lessons_03">
+      <created>1707073124092</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1707073124092</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +214,7 @@
     <MESSAGE value="tyr" />
     <MESSAGE value="tpf" />
     <MESSAGE value="HomeWork02" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork02" />
+    <MESSAGE value="lessons_03" />
+    <option name="LAST_COMMIT_MESSAGE" value="lessons_03" />
   </component>
 </project>
