@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6fa2da0-7834-4ba2-844c-2ea7f2362e49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lessons_04/CharExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons_04/Increment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons_04/StringExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons_05/BooleanExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons_05/StringMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,13 +39,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringExample">
-    <configuration name="CharExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons_04.CharExample" />
+  <component name="RunManager" selected="Application.lessons_05.BooleanExample">
+    <configuration name="BooleanExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_05.BooleanExample" />
       <module name="cohort_41_lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons_04.*" />
+          <option name="PATTERN" value="homework_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Increment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons_04.Increment" />
+    <configuration name="CharExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons_04.CharExample" />
       <module name="cohort_41_lessons" />
       <extension name="coverage">
         <pattern>
@@ -81,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_03.Task3" />
+    <configuration name="StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons_05.StringMethods" />
       <module name="cohort_41_lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework_03.*" />
+          <option name="PATTERN" value="lessons_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework_03.Task4" />
+    <configuration name="lessons_05.BooleanExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons_05.BooleanExample" />
       <module name="cohort_41_lessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework_03.*" />
+          <option name="PATTERN" value="lessons_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lessons_05.BooleanExample" />
+        <item itemvalue="Application.BooleanExample" />
+        <item itemvalue="Application.StringMethods" />
         <item itemvalue="Application.StringExample" />
         <item itemvalue="Application.CharExample" />
-        <item itemvalue="Application.Increment" />
-        <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task3" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707076735206</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="lessons_04">
+      <created>1707077866421</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1707077866421</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,6 +227,7 @@
     <MESSAGE value="HomeWork02" />
     <MESSAGE value="lessons_03" />
     <MESSAGE value="homework_03" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework_03" />
+    <MESSAGE value="lessons_04" />
+    <option name="LAST_COMMIT_MESSAGE" value="lessons_04" />
   </component>
 </project>
