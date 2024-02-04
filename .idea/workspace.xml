@@ -99,11 +99,19 @@
       <option name="project" value="LOCAL" />
       <updated>1707068883150</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="tpf">
+      <created>1707069285587</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707069285587</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tyr" />
-    <option name="LAST_COMMIT_MESSAGE" value="tyr" />
+    <MESSAGE value="tpf" />
+    <option name="LAST_COMMIT_MESSAGE" value="tpf" />
   </component>
 </project>
